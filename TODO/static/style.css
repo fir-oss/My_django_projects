@@ -1,0 +1,12 @@
+.banner{
+background-color:turquoise;
+width:100%;
+height:200px;
+margin-bottom:50px;
+}
+.banner-text{
+top:130px;
+left:730px;
+position:absolute;
+transform:transform;
+}
